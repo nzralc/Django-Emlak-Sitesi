@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61ebef33-8337-43ca-a3b1-425ac4d5ee83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/project/home/static/img/icons/galeri.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/home/static/img/icons/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/uploads/image/users/emre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/uploads/images/7__31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/uploads/images/yüksel_hoca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/uploads/images/yüksel_hoca_IEjbQsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/uploads/images/yüksel_hoca_RdXNCDV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/user/templates/content_gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/home/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/home/templates/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/user/templates/myhomes.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/user/templates/myhomes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/user/templates/user_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/user/templates/user_comments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/user/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="ProjectId" id="1baVzCNswvi3oud9uFXYKGDguWg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../özel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Django\project\user\templates" />
+      <recent name="C:\Django\project\home\static\css" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61ebef33-8337-43ca-a3b1-425ac4d5ee83" name="Default Changelist" comment="" />
+      <created>1588870451109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588870451109</updated>
+      <workItem from="1588870454462" duration="13114000" />
+      <workItem from="1588892636085" duration="3700000" />
+      <workItem from="1589025945605" duration="12673000" />
+      <workItem from="1589121541900" duration="19266000" />
+      <workItem from="1589148474321" duration="3000" />
+      <workItem from="1589222585210" duration="719000" />
+      <workItem from="1589233364508" duration="5713000" />
+      <workItem from="1589249789749" duration="6000" />
+      <workItem from="1589250340352" duration="1511000" />
+      <workItem from="1589289373012" duration="1837000" />
+      <workItem from="1589292797054" duration="16000" />
+      <workItem from="1589317403255" duration="1429000" />
+      <workItem from="1589402614480" duration="11359000" />
+      <workItem from="1589464831675" duration="4998000" />
+      <workItem from="1589492522944" duration="1567000" />
+      <workItem from="1589495667201" duration="42000" />
+      <workItem from="1589495712104" duration="14189000" />
+      <workItem from="1589550470067" duration="6731000" />
+      <workItem from="1589568249984" duration="1703000" />
+      <workItem from="1590366233587" duration="7036000" />
+      <workItem from="1590373609684" duration="7540000" />
+      <workItem from="1590533822569" duration="4203000" />
+      <workItem from="1590541461934" duration="5021000" />
+      <workItem from="1590546802133" duration="1509000" />
+      <workItem from="1590620095235" duration="6350000" />
+      <workItem from="1590689426241" duration="2914000" />
+      <workItem from="1590694330637" duration="1217000" />
+      <workItem from="1590789070037" duration="5000" />
+      <workItem from="1590863201112" duration="91000" />
+      <workItem from="1590881858791" duration="1430000" />
+      <workItem from="1590956493507" duration="12806000" />
+      <workItem from="1591051262326" duration="9247000" />
+      <workItem from="1591062131282" duration="3329000" />
+      <workItem from="1591065759273" duration="5293000" />
+      <workItem from="1591071101172" duration="6000" />
+      <workItem from="1591109547685" duration="7250000" />
+      <workItem from="1591121170738" duration="1994000" />
+      <workItem from="1591209659939" duration="11899000" />
+      <workItem from="1591236178839" duration="4258000" />
+      <workItem from="1591280755721" duration="596000" />
+      <workItem from="1591282676414" duration="18000" />
+      <workItem from="1591282712424" duration="8096000" />
+    </task>
+    <task id="LOCAL-00001" summary="Kategori, alt kategori 15. video dahil">
+      <created>1589066912396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589066912396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="üye ekleme otomatik profil oluşturma ve bazı güncellemeler">
+      <created>1590375548661</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590375548661</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kullanıcı üye bilgilerini ve şifresini güncelleme">
+      <created>1590379963929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590379963929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Üye yorumları Listeleme ve silme">
+      <created>1590538953493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590538953493</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Kategorideki hata düzeltildi">
+      <created>1590693041865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590693041865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="anasayfa content güncelleme">
+      <created>1590959649900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590959649900</updated>
+    </task>
+    <task id="LOCAL-00007" summary="product detaildeki slider güncellendi">
+      <created>1590966383541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590966383541</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ilan için extra özellikler eklendi">
+      <created>1591061122986</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591061122986</updated>
+    </task>
+    <task id="LOCAL-00009" summary="kullanıcı ürün ekleme formu">
+      <created>1591070373726</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591070373726</updated>
+    </task>
+    <task id="LOCAL-00010" summary="nerdeyse tamam :) extra içerik eklenecek">
+      <created>1591233148029</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591233148030</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Sonunda bitti :)))">
+      <created>1591247670240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1591247670240</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Kategori, alt kategori 15. video dahil" />
+    <MESSAGE value="üye ekleme otomatik profil oluşturma ve bazı güncellemeler" />
+    <MESSAGE value="Kullanıcı üye bilgilerini ve şifresini güncelleme" />
+    <MESSAGE value="Üye yorumları Listeleme ve silme" />
+    <MESSAGE value="Kategorideki hata düzeltildi" />
+    <MESSAGE value="anasayfa content güncelleme" />
+    <MESSAGE value="product detaildeki slider güncellendi" />
+    <MESSAGE value="ilan için extra özellikler eklendi" />
+    <MESSAGE value="kullanıcı ürün ekleme formu" />
+    <MESSAGE value="nerdeyse tamam :) extra içerik eklenecek" />
+    <MESSAGE value="Sonunda bitti :)))" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sonunda bitti :)))" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591121461064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591121461064" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1591247665545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591247665545" />
+    <state x="534" y="117" key="FileChooserDialogImpl" timestamp="1591289396844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591289396844" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1591247686098">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591247686098" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589066717799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1589066717799" />
+  </component>
+</project>
